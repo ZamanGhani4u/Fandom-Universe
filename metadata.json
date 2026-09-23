@@ -1,0 +1,6 @@
+{
+  "name": "FandomVerse - Portal for Fandom World",
+  "description": "A centralized, visually rich hub for fandom enthusiasts across Anime, Gaming, Movies, TV Shows, K-Pop, Comics, and Manga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
